@@ -11,7 +11,7 @@ metadata:
   title:
     default: Natuurpraktijk Jacobs
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "Natuurpraktijk Jacobs Behandelingen: Acupunctuur, Allergiebehandeling, Hormonale aandoeningen (Overgewicht, Hypothyreoïdie..), Triggerpointtherapie, Myofascial release.."
   robots:
     index: true
     follow: true
@@ -44,7 +44,7 @@ apps:
 
     list:
       isEnabled: true
-      pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
+      pathname: 'articles' # Blog main path, you can change this to "articles" (/articles)
       robots:
         index: true
 
